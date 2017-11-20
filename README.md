@@ -20,6 +20,17 @@ List of Resources and links to learn Dagger 2
 * https://google.github.io/dagger/api/2.10/dagger/Lazy.html
 * https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations
 * https://www.techyourchance.com/dagger-tutorial/
+* https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad
+* https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c
+* https://dzone.com/articles/scoped-objects-in-dagger-2
+* http://www.vogella.com/tutorials/Dagger/article.html
+
+--
+Codepath
+
+* https://guides.codepath.com/android/dependency-injection-with-dagger-2
+* https://github.com/codepath/dagger2-example
+* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2
 
 --
 
@@ -58,8 +69,23 @@ List of Resources and links to learn Dagger 2
 * https://www.youtube.com/watch?v=KwRXQ6nT7jQ
 * https://www.youtube.com/watch?v=wInzJ76uWTQ
 * https://www.youtube.com/watch?v=B7rY_t3ghjI
+* https://www.youtube.com/watch?v=6xB5MWK4tuQ
+* https://www.youtube.com/watch?v=cx6pCIbOqtI
+* https://www.youtube.com/watch?v=_neAwAv9JzY
+* https://www.youtube.com/watch?v=GDkL2uEn8cg
 
 --
+
+Vasily's blogs and videos on dagger
+https://www.techyourchance.com/dependency-injection-android/
+https://www.techyourchance.com/dagger-tutorial/
+https://github.com/techyourchance/android_application_template
+https://github.com/techyourchance/idocare-android
+
+
+--
+
+
 From androidresources.net
 
 * https://www.youtube.com/watch?v=PBrhRvhF00k
@@ -92,6 +118,20 @@ From androidresources.net
 
 --
 * https://github.com/MindorksOpenSource/android-dagger2-example
+* https://github.com/Karumi/KataSuperHeroesAndroid
+* https://github.com/iammert/dagger-android-injection
+* https://github.com/Ekito/koin
+* https://github.com/hitherejoe/MvpBoilerplate
+* https://github.com/ribot/android-boilerplate
+* https://github.com/androidstarters/generator-android-mvp-starter
+
+--
+
+* https://medium.com/@laaptu9/part-1-simple-ways-to-stab-with-dagger-2-scenario-50b376751293
+* https://medium.com/@laaptu9/part-2-simple-ways-to-stab-with-dagger-2-module-component-and-field-injection-e85cbef8678b
+* https://medium.com/@laaptu9/part-3-simple-ways-to-stab-with-dagger-2-method-injection-constructor-injection-aa9a17cbb527
+* https://medium.com/@laaptu9/part-4-simple-ways-to-stab-with-dagger-2-module-dependencies-and-named-providers-a3e27f8d3421
+* https://medium.com/@laaptu9/part-5-simple-ways-to-stab-with-dagger-2-component-dependency-subcomponent-fd38da1a7a26
 
 --
 
@@ -104,7 +144,7 @@ From android weekly
 * https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2
 * https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e
 * https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117
-* https://www.youtube.com/watch?v=wCvXe2LsN5o&feature=youtu.be
+* https://www.youtube.com/watch?v=wCvXe2LsN5o
 * http://adavis.info/2016/11/background-work-with-android-job-and-dagger.html
 * https://medium.com/di-101
 * http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
@@ -123,6 +163,8 @@ From android weekly
 * https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c
 * https://medium.com/@froger_mcs/inject-everything-viewholder-and-dagger-2-e1551a76a908
 * https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0
+* https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2
+* https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html
 
 
 --
