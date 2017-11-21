@@ -23,6 +23,7 @@ List of Resources and links to learn Dagger 2
 
 * https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2/
 To understand why you need dagger and where it fits in
+* https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
 
 --
 
@@ -42,6 +43,7 @@ To understand why you need dagger and where it fits in
 * https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd
 * https://github.com/MindorksOpenSource/android-dagger2-example
 * https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c
+* https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e
 
 --
 ### Codepath
@@ -99,6 +101,20 @@ To understand why you need dagger and where it fits in
 * https://proandroiddev.com/dagger-2-component-relationships-custom-scopes-8d7e05e70a37
 * https://www.youtube.com/watch?v=iczp_toHxmA
 * https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f
+* https://proandroiddev.com/dagger-2-component-builder-1f2b91237856
+
+--
+### Roberto Orgiu
+* https://medium.com/di-101/di-101-part-1-81896c2858a0
+* https://medium.com/di-101/di-101-part-2-9f7f4e1dcc81
+* https://medium.com/di-101/di-101-part-3-f0136e67db8
+* https://medium.com/di-101/di-101-part-4-a1121735442e
+
+--
+
+* https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
+* https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-2-6eaf60965df7
+* https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-3-ed5acf40eb19
 
 --
 
@@ -112,6 +128,16 @@ To understand why you need dagger and where it fits in
 ### Other blogs
 * https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html
 * https://blog.gouline.net/dagger-2-even-sharper-less-square-b52101863542
+* https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117  
+^ check if good tutorial or not
+* https://antonioleiva.com/dependency-injection-android-dagger-part-1/
+* https://antonioleiva.com/dagger-android-part-2/
+* https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6
+* https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97  
+^inc in good articles or not?
+* http://www.vogella.com/tutorials/Dagger/article.html
+* https://dzone.com/articles/scoped-objects-in-dagger-2
+
 
 --
 
@@ -119,7 +145,8 @@ To understand why you need dagger and where it fits in
 
 * https://www.youtube.com/watch?v=hjHZkZr3GZw
 * https://proandroiddev.com/dagger-2-android-modules-e168821cfc57
-
+* https://proandroiddev.com/mvp-with-dagger-2-11-847d52c27c5a
+* https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe
 
 --
 ### Advanced Dagger
@@ -128,12 +155,23 @@ Sub section of testing with Dagger?
 * https://www.youtube.com/watch?v=PBrhRvhF00k  
 https://speakerdeck.com/ronshapiro/optimizing-dagger-on-android
 * https://android.jlelse.eu/repository-layer-using-room-and-dagger-2-android-12d311830fd9
-* https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c
 * http://www.ottodroid.net/?p=479
 * http://www.ottodroid.net/?p=514
-* https://blog.egorand.me/providing-test-doubles-with-dagger-1-and-dagger-2/
 * http://saulmm.github.io/when-Thor-and-Hulk-meet-dagger2-rxjava-1  
 More links here ^
+* https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b
+* http://adavis.info/2016/11/background-work-with-android-job-and-dagger.html
+* http://adavis.info/2017/03/realm-migrations-supercharged-with.html
+* https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2
+
+
+#### Testing
+* https://medium.com/@MiguelSesma/dagger-2-android-playground-lets-play-with-different-configurations-and-tests-e30b7e843de8
+* https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c
+* https://blog.egorand.me/providing-test-doubles-with-dagger-1-and-dagger-2/
+* https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff
+* https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
+* https://blog.blueapron.io/using-dagger-for-testable-code-5d29f6c5fc86
 
 --
 
@@ -148,11 +186,14 @@ More links here ^
  
 * https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb
 * https://proandroiddev.com/dagger-2-in-only-4-code-lines-9fdcb7c05e1f
+* https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad
 
 --
 
 ### Videos
 
+
+* https://www.youtube.com/watch?v=oK_XtfXPkqw
 * https://www.youtube.com/playlist?list=PLKjUSsWo498CYSV4RazsU9coWGNMTwL5m
 * https://www.youtube.com/watch?v=RVpADaFIlRw&list=PLKjUSsWo498CYSV4RazsU9coWGNMTwL5m&index=2
 * https://www.youtube.com/playlist?list=PL65cngFcy5_bfovRVwlo6u12y84UX9un1
@@ -165,9 +206,19 @@ More links here ^
 * https://www.youtube.com/watch?v=wInzJ76uWTQ
 * https://www.youtube.com/watch?v=B7rY_t3ghjI
 * https://www.youtube.com/watch?v=GDkL2uEn8cg
+* https://www.youtube.com/watch?v=wCvXe2LsN5o
+* https://academy.realm.io/posts/360andev-mike-nakhimovich-swordfighting-dagger-dependency-injection-android/
+
+--
+
+### Podcasts
+
+* http://androidbackstage.blogspot.in/2017/02/episode-63-dagger.html
+* http://fragmentedpodcast.com/episodes/021/
 
 
 --
+
 
 ### Github repos
 
@@ -185,42 +236,10 @@ More links here ^
 ### Unclassified
 
 * https://blog.blueapron.io/marinator-delicious-dependency-injection-8a15d2a4adfe
-* https://blog.blueapron.io/using-dagger-for-testable-code-5d29f6c5fc86
-* https://proandroiddev.com/dagger-2-android-modules-e168821cfc57
-* http://adavis.info/2017/03/realm-migrations-supercharged-with.html
-* https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2
-* https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e
-* https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117
-* https://www.youtube.com/watch?v=wCvXe2LsN5o
-* http://adavis.info/2016/11/background-work-with-android-job-and-dagger.html
-* https://medium.com/di-101
-* https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
-* https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff
-* https://antonioleiva.com/dependency-injection-android-dagger-part-1/
-* https://antonioleiva.com/dagger-android-part-2/
-* https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
-* https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97
-* https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6
 * https://google.github.io/dagger/users-guide.html
-* https://www.youtube.com/watch?v=oK_XtfXPkqw
 * https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java
 * https://google.github.io/dagger/api/2.10/dagger/Lazy.html
 * https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations
-* https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad
-* https://dzone.com/articles/scoped-objects-in-dagger-2
-* http://www.vogella.com/tutorials/Dagger/article.html
-* https://proandroiddev.com/dagger-2-component-relationships-custom-scopes-8d7e05e70a37
-* https://proandroiddev.com/mvp-with-dagger-2-11-847d52c27c5a
-* https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-2-6eaf60965df7
-* https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
-* https://medium.com/@MiguelSesma/dagger-2-android-playground-lets-play-with-different-configurations-and-tests-e30b7e843de8
-* https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b
-* https://proandroiddev.com/dagger-2-component-builder-1f2b91237856
-* http://androidbackstage.blogspot.in/2017/02/episode-63-dagger.html
-* http://fragmentedpodcast.com/episodes/021/
-* https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe
-* https://academy.realm.io/posts/360andev-mike-nakhimovich-swordfighting-dagger-dependency-injection-android/
-* https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/
 
 --
 
