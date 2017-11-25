@@ -19,26 +19,21 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 
 ## From various Bloggers
 
-* [Dependency Injection in Android with Dagger 2](https://www.raywenderlich.com/146804/dependency-injection-dagger-2)
-* **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)**  
-To understand why you need dagger and where it fits in
-* **[Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)**
+* [Dependency Injection in Android with Dagger 2](https://www.raywenderlich.com/146804/dependency-injection-dagger-2) - Simple tutorial to get you started on DI
+* **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)** - Why you need Dagger and where it fits in
+* [Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+* [The lost droid and the magic Dagger: an intro to dependency injection for Android](https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117)
 * **[Dependency Injection with Dagger 2](https://guides.codepath.com/android/dependency-injection-with-dagger-2)**
-* [Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
-* [Dagger 2: Even sharper, less square](https://blog.gouline.net/dagger-2-even-sharper-less-square-b52101863542)
-* [The lost droid and the magic Dagger: an intro to dependency injection for Android.](https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117)  
-^ check if good tutorial or not
+* **[Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)**
 * https://antonioleiva.com/dependency-injection-android-dagger-part-1/
 * https://antonioleiva.com/dagger-android-part-2/
-* [Dagger 2 Dependency Injection for Android Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6)
-* [That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)  
-^inc in good articles or not?
-* [Using Dagger 2 for dependency injection in Android - Tutorial](http://www.vogella.com/tutorials/Dagger/article.html)
-* [Dependency Injection Without the Boilerplate: Scoped Objects in Dagger 2](https://dzone.com/articles/scoped-objects-in-dagger-2)
-* [Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+* **[Dagger 2 Dependency Injection for Android Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6)**
 * [A Friendly Introduction to Dagger 2: Part 1](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-1-dbdf2f3fb17b)
 * [A Friendly Introduction to Dagger 2: Part 2](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-2-87d8c5ab77f0)
 * [Inversion of Control Containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html)
+* [Dependency Injection Without the Boilerplate: Scoped Objects in Dagger 2](https://dzone.com/articles/scoped-objects-in-dagger-2)
+* [Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
+* [Dagger 2: Even sharper, less square](https://blog.gouline.net/dagger-2-even-sharper-less-square-b52101863542) - Transitioning from Dagger 1 to Dagger 2 and annoyances in Dagger 2
 
 
 ## Organised by Blogger
@@ -119,6 +114,12 @@ To understand why you need dagger and where it fits in
 * [Part 7: Simple Ways To Stab With Dagger 2 ( Life of a scoped object)](https://medium.com/@laaptu9/part-7-simple-ways-to-stab-with-dagger-2-life-of-a-scoped-object-c423a0bc83ee)
 * [Part 8: Simple Ways To Stab With Dagger 2 ( Custom Scope)](https://medium.com/@laaptu9/part-8-simple-ways-to-stab-with-dagger-2-custom-scope-91fd2b4de3c0)
 
+## Dagger Tips and Tricks
+
+* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
+* [Inject interfaces without provide methods on Dagger 2](https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29)
+* **[That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)**
+
 
 
 ## Dagger Android modules
@@ -162,10 +163,7 @@ To understand why you need dagger and where it fits in
 * [Dagger 2 in only 4 code lines](https://proandroiddev.com/dagger-2-in-only-4-code-lines-9fdcb7c05e1f)
 
 
-## Dagger Tips and Tricks
 
-* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
-* [Inject interfaces without provide methods on Dagger 2](https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29)
 
 ## Videos
 
@@ -178,7 +176,7 @@ To understand why you need dagger and where it fits in
 * [Understanding Dagger 2's Codegen implementation by Gregory Kick](https://www.youtube.com/watch?v=-UWWFBEhW3Q)
 * [Mike Nakhimovich: Dagger 2: @Reusable, static @Provides, scopes](https://www.youtube.com/watch?v=KwRXQ6nT7jQ)
 * [Dagger 2 @ Pandora](https://www.youtube.com/watch?v=wInzJ76uWTQ)
-* [360|AnDev 2016 - Daniel Lew: Dependency Injection Made Simple](https://www.youtube.com/watch?v=B7rY_t3ghjI)
+* **[360|AnDev 2016 - Daniel Lew: Dependency Injection Made Simple](https://www.youtube.com/watch?v=B7rY_t3ghjI)**
 * [Inject with Dagger by Mateusz Herych](https://www.youtube.com/watch?v=bf5oDskcVAo)
 * [Understanding Dagger 2's Generated Code by Ron Shapiro & David P. Baker](https://www.youtube.com/watch?v=wCvXe2LsN5o)
 * [Swordfighting with Dagger by Mike Nakhimovich](https://academy.realm.io/posts/360andev-mike-nakhimovich-swordfighting-dagger-dependency-injection-android/)
@@ -206,6 +204,8 @@ To understand why you need dagger and where it fits in
 * https://android.jlelse.eu/dagger-2-the-simplest-approach-3e23502c4cab
 * https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 * https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f
+* [Using Dagger 2 for dependency injection in Android - Tutorial](http://www.vogella.com/tutorials/Dagger/article.html)
+
 
 
 ## Unclassified
