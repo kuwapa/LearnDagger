@@ -2,6 +2,8 @@
 
 List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guide.html)
 
+Links in **BOLD** are links you should defenitely go through.
+
 ## Precusor to learning Dagger
 * [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)?oldformat=true)
 * **[S is for Single Responsibility Principle](https://academy.realm.io/posts/donn-felker-solid-part-1/)**
@@ -25,8 +27,10 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * [The lost droid and the magic Dagger: an intro to dependency injection for Android](https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117)
 * **[Dependency Injection with Dagger 2](https://guides.codepath.com/android/dependency-injection-with-dagger-2)**
 * **[Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)**
-* https://antonioleiva.com/dependency-injection-android-dagger-part-1/
-* https://antonioleiva.com/dagger-android-part-2/
+* [Dependency injection on Android: Dagger (Part 1)](https://antonioleiva.com/dependency-injection-android-dagger-part-1/)
+* [Dagger: dependency injection on Android (Part 2)
+](https://antonioleiva.com/dagger-android-part-2/)
+* [Dagger: Scoped object graphs (Part 3)](https://antonioleiva.com/dagger-3/)
 * **[Dagger 2 Dependency Injection for Android Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6)**
 * [A Friendly Introduction to Dagger 2: Part 1](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-1-dbdf2f3fb17b)
 * [A Friendly Introduction to Dagger 2: Part 2](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-2-87d8c5ab77f0)
@@ -78,6 +82,7 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * [Activities Subcomponents Multibinding in Dagger 2](https://medium.com/azimolabs/activities-subcomponents-multibinding-in-dagger-2-85d6053d6a95)
 * [Dagger2Metrics - measure performance of DI graph initialization](http://frogermcs.github.io/dagger2metrics-measure-performance-of-graph-initialization/)
 * [AndroidDevMetrics - dagger2metrics evolved into metrics for Android development](http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/)  
+* [Dagger 1 to 2 migration process](http://frogermcs.github.io/dagger-1-to-2-migration/)
 
 #### Garima Jain
 
@@ -132,7 +137,7 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 
 
 
-## Advanced Dagger
+## Advanced Dagger Blogs
 
 * [[Youtube] Optimizing Dagger on Android: Developer Workflow and Runtime Performance](https://www.youtube.com/watch?v=PBrhRvhF00k)  
 [Slides](https://speakerdeck.com/ronshapiro/optimizing-dagger-on-android)
@@ -143,6 +148,7 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * [Background Work with Android Job and Dagger](http://adavis.info/2016/11/background-work-with-android-job-and-dagger.html)
 * [Realm Migrations Supercharged with Dagger](http://adavis.info/2017/03/realm-migrations-supercharged-with.html)
 * [Retaining Dagger components across configuration change using Service-Tree](https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2)
+* [Marinator: Delicious Dependency Injection](https://blog.blueapron.io/marinator-delicious-dependency-injection-8a15d2a4adfe)
 
 
 #### Testing
@@ -156,7 +162,7 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * [How Dagger 2 Helps In Android Espresso Tests](http://www.ottodroid.net/?p=514)
 
 
-#### With kotlin 
+#### With Kotlin 
  
 * [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 * [Better dependency injection for Android](https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad)
@@ -187,6 +193,10 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * [Android Developers Backstage - Episode 63: Dagger](http://androidbackstage.blogspot.in/2017/02/episode-63-dagger.html)
 * [Fragmented - 021: Diving Deep with Dagger](http://fragmentedpodcast.com/episodes/021/)
 
+## Lessons from Caster.io
+
+* [Dependency Injection with Dagger 2](https://caster.io/courses/dagger2)
+
 
 ## Github repos
 
@@ -199,6 +209,39 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * https://github.com/gk5885/dagger-android-sample
 * https://github.com/android10/Android-CleanArchitecture
 
+
+## Stackoverflow Questions to go through
+* https://stackoverflow.com/questions/27036933/how-to-set-up-dagger-dependency-injection-from-scratch-in-android-project
+* https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java
+* https://stackoverflow.com/questions/29587130/dagger-2-subcomponents-vs-component-dependencies
+* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2
+* https://stackoverflow.com/questions/36206989/dagger-should-we-create-each-component-and-module-for-each-activity-fragment
+* https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0
+* https://stackoverflow.com/questions/29989245/android-unit-tests-with-dagger-2
+* https://stackoverflow.com/questions/29923376/dagger2-custom-scopes-how-do-custom-scopes-activityscope-actually-work
+* https://stackoverflow.com/questions/31834056/how-do-you-organise-your-dagger-2-modules-and-components
+* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2?rq=1
+* https://stackoverflow.com/questions/30972574/dagger-2-custom-scope-for-each-fragment-or-activity-etc
+* https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0
+* https://stackoverflow.com/questions/36371716/dagger-2-scope-and-subcomponents
+* https://stackoverflow.com/questions/30260073/dagger-2-error-dependency-cannot-be-provided-without-an-inject-constructor-w
+* https://stackoverflow.com/questions/29528599/scopes-in-dagger-2
+* https://stackoverflow.com/questions/28170292/problems-with-singletons-when-using-component-dependencies
+* https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations
+
+
+
+## Unclassified
+
+* https://speakerdeck.com/ogaclejapan/dagger2-has-been-released
+* https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
+
+
+## not sure if to keep in or not
+
+* https://medium.com/@sweers/catching-up-on-catchup-a-dagger-powered-plugin-system-d238a99f819e
+* https://medium.com/lateral-view/design-principles-on-android-703c9387d6d7
+
 ## Average blogs
 * https://medium.com/@abhishekdewangan/dependency-injection-in-android-using-dagger2-part-1-f0d05dd14088
 * https://android.jlelse.eu/dagger-2-the-simplest-approach-3e23502c4cab
@@ -206,25 +249,4 @@ List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guid
 * https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f
 * [Using Dagger 2 for dependency injection in Android - Tutorial](http://www.vogella.com/tutorials/Dagger/article.html)
 
-
-
-## Unclassified
-
-* https://blog.blueapron.io/marinator-delicious-dependency-injection-8a15d2a4adfe
-* https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java
-* https://google.github.io/dagger/api/2.10/dagger/Lazy.html
-* https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations
-* https://stackoverflow.com/questions/29587130/dagger-2-subcomponents-vs-component-dependencies
-* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2
-
-
-## Lessons from caster io
-
-* https://caster.io/episodes/dagger-2-part-1/
-
-
-## not sure if to keep in or not
-
-* https://medium.com/@sweers/catching-up-on-catchup-a-dagger-powered-plugin-system-d238a99f819e
-* https://medium.com/lateral-view/design-principles-on-android-703c9387d6d7
 
