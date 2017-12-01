@@ -1,11 +1,9 @@
-# Learn Dagger
-
-List of resources to learn about [Dagger 2](https://google.github.io/dagger/users-guide.html). 
+# List of resources to learn about [Dagger 2](https://google.github.io/dagger/users-guide.html)
 
 
 `Links in bold are links you should defenitely go through.`
 
-## Precusor to learning Dagger
+## Prior to learning Dagger
 * [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)?oldformat=true)
 * **[S is for Single Responsibility Principle](https://academy.realm.io/posts/donn-felker-solid-part-1/)**
 * [Dependency Inversion Principle](http://www.oodesign.com/dependency-inversion-principle.html)
@@ -13,6 +11,8 @@ List of resources to learn about [Dagger 2](https://google.github.io/dagger/user
 ](https://android.jlelse.eu/android-development-the-solid-principles-3b5779b105d2)
 * [Single Responsibility Principle and Context](https://android.jlelse.eu/single-responsibility-principle-and-context-60e39a28e5bd)  
 * [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* [MVP for Android: how to organize the presentation layer](https://antonioleiva.com/mvp-android/)
+* [Robert C. Martin - Clean Architecture](https://vimeo.com/43612849)
 
 
 ## From various Bloggers
