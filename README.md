@@ -1,8 +1,9 @@
 # Learn Dagger
 
-List of resources to learn [Dagger 2](https://google.github.io/dagger/users-guide.html)
+List of resources to learn about [Dagger 2](https://google.github.io/dagger/users-guide.html). 
 
-Links in **BOLD** are links you should defenitely go through.
+
+`Links in bold are links you should defenitely go through.`
 
 ## Precusor to learning Dagger
 * [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)?oldformat=true)
@@ -14,23 +15,14 @@ Links in **BOLD** are links you should defenitely go through.
 * [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
 
-## Basics
-* [[Youtube] Dependency Injection](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
-
-
-
 ## From various Bloggers
-
+* **[[Youtube] Dependency Injection](https://www.youtube.com/watch?v=IKD2-MAkXyQ)**
 * [Dependency Injection in Android with Dagger 2](https://www.raywenderlich.com/146804/dependency-injection-dagger-2) - Simple tutorial to get you started on DI
 * **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)** - Why you need Dagger and where it fits in
 * [Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
 * [The lost droid and the magic Dagger: an intro to dependency injection for Android](https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117)
 * **[Dependency Injection with Dagger 2](https://guides.codepath.com/android/dependency-injection-with-dagger-2)**
 * **[Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)**
-* [Dependency injection on Android: Dagger (Part 1)](https://antonioleiva.com/dependency-injection-android-dagger-part-1/)
-* [Dagger: dependency injection on Android (Part 2)
-](https://antonioleiva.com/dagger-android-part-2/)
-* [Dagger: Scoped object graphs (Part 3)](https://antonioleiva.com/dagger-3/)
 * **[Dagger 2 Dependency Injection for Android Developers](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6)**
 * [A Friendly Introduction to Dagger 2: Part 1](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-1-dbdf2f3fb17b)
 * [A Friendly Introduction to Dagger 2: Part 2](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-2-87d8c5ab77f0)
@@ -51,6 +43,14 @@ Links in **BOLD** are links you should defenitely go through.
 * [Android Dagger2: Critical things to know before you implement.
 ](https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e)
 * [A Complete Guide To Learn Dagger 2](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c)
+
+#### Antonio Leiva
+
+* [Dependency injection on Android: Dagger (Part 1)](https://antonioleiva.com/dependency-injection-android-dagger-part-1/)
+* [Dagger: dependency injection on Android (Part 2)
+](https://antonioleiva.com/dagger-android-part-2/)
+* [Dagger: Scoped object graphs (Part 3)](https://antonioleiva.com/dagger-3/)
+
 
 #### Vasiliy Zukanov
 
@@ -211,42 +211,20 @@ Links in **BOLD** are links you should defenitely go through.
 
 
 ## Stackoverflow Questions to go through
-* https://stackoverflow.com/questions/27036933/how-to-set-up-dagger-dependency-injection-from-scratch-in-android-project
-* https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java
-* https://stackoverflow.com/questions/29587130/dagger-2-subcomponents-vs-component-dependencies
-* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2
-* https://stackoverflow.com/questions/36206989/dagger-should-we-create-each-component-and-module-for-each-activity-fragment
-* https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0
-* https://stackoverflow.com/questions/29989245/android-unit-tests-with-dagger-2
-* https://stackoverflow.com/questions/29923376/dagger2-custom-scopes-how-do-custom-scopes-activityscope-actually-work
-* https://stackoverflow.com/questions/31834056/how-do-you-organise-your-dagger-2-modules-and-components
-* https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2?rq=1
-* https://stackoverflow.com/questions/30972574/dagger-2-custom-scope-for-each-fragment-or-activity-etc
-* https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0
-* https://stackoverflow.com/questions/36371716/dagger-2-scope-and-subcomponents
-* https://stackoverflow.com/questions/30260073/dagger-2-error-dependency-cannot-be-provided-without-an-inject-constructor-w
-* https://stackoverflow.com/questions/29528599/scopes-in-dagger-2
-* https://stackoverflow.com/questions/28170292/problems-with-singletons-when-using-component-dependencies
-* https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations
-
-
-
-## Unclassified
-
-* https://speakerdeck.com/ogaclejapan/dagger2-has-been-released
-* https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
-
-
-## not sure if to keep in or not
-
-* https://medium.com/@sweers/catching-up-on-catchup-a-dagger-powered-plugin-system-d238a99f819e
-* https://medium.com/lateral-view/design-principles-on-android-703c9387d6d7
-
-## Average blogs
-* https://medium.com/@abhishekdewangan/dependency-injection-in-android-using-dagger2-part-1-f0d05dd14088
-* https://android.jlelse.eu/dagger-2-the-simplest-approach-3e23502c4cab
-* https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
-* https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f
-* [Using Dagger 2 for dependency injection in Android - Tutorial](http://www.vogella.com/tutorials/Dagger/article.html)
-
+* [How to set up DAGGER dependency injection from scratch in Android project?](https://stackoverflow.com/questions/27036933/how-to-set-up-dagger-dependency-injection-from-scratch-in-android-project)
+* [Dagger 2 subcomponents vs component dependencies](https://stackoverflow.com/questions/29587130/dagger-2-subcomponents-vs-component-dependencies)
+* [What determines the lifecycle of a component (object graph) in Dagger 2?](https://stackoverflow.com/questions/28411352/what-determines-the-lifecycle-of-a-component-object-graph-in-dagger-2)
+* [Dagger- Should we create each component and module for each Activity/ Fragment](https://stackoverflow.com/questions/36206989/dagger-should-we-create-each-component-and-module-for-each-activity-fragment)
+* [How do you override a module/dependency in a unit test with Dagger 2.0?](https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0)
+* [Android Unit Tests with Dagger 2](https://stackoverflow.com/questions/29989245/android-unit-tests-with-dagger-2)
+* [Dagger2 Custom Scopes : How do custom-scopes (@ActivityScope) actually work?](https://stackoverflow.com/questions/29923376/dagger2-custom-scopes-how-do-custom-scopes-activityscope-actually-work)
+* [How do you organise your Dagger 2 modules and components?](https://stackoverflow.com/questions/31834056/how-do-you-organise-your-dagger-2-modules-and-components)
+* [Dagger 2 Custom Scope for each Fragment (or Activity etc…)](https://stackoverflow.com/questions/30972574/dagger-2-custom-scope-for-each-fragment-or-activity-etc)
+* [How do you override a module/dependency in a unit test with Dagger 2.0?](https://stackoverflow.com/questions/26939340/how-do-you-override-a-module-dependency-in-a-unit-test-with-dagger-2-0)
+* [Dagger 2 scope and subcomponents](https://stackoverflow.com/questions/36371716/dagger-2-scope-and-subcomponents)
+* [Dagger 2 error: dependency “cannot be provided without an @Inject constructor” while it actually annotated with @Inject](https://stackoverflow.com/questions/30260073/dagger-2-error-dependency-cannot-be-provided-without-an-inject-constructor-w)
+* [Scopes in Dagger 2](https://stackoverflow.com/questions/29528599/scopes-in-dagger-2)
+* [Problems with singletons when using component dependencies](https://stackoverflow.com/questions/28170292/problems-with-singletons-when-using-component-dependencies)
+* [How do different retention policies affect my annotations?](https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations)
+* [What's the difference between interface and @interface in java?](https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java)
 
