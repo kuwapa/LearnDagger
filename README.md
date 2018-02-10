@@ -13,6 +13,7 @@
 * [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [MVP for Android: how to organize the presentation layer](https://antonioleiva.com/mvp-android/)
 * [Robert C. Martin - Clean Architecture](https://vimeo.com/43612849)
+* [SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
 
 ## From various Bloggers
@@ -28,8 +29,10 @@
 * [A Friendly Introduction to Dagger 2: Part 2](https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-2-87d8c5ab77f0)
 * [Inversion of Control Containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html)
 * [Dependency Injection Without the Boilerplate: Scoped Objects in Dagger 2](https://dzone.com/articles/scoped-objects-in-dagger-2)
-* [Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
+* [Dagger 2 Basics - David Medenjak](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
 * [Dagger 2: Even sharper, less square](https://blog.gouline.net/dagger-2-even-sharper-less-square-b52101863542) - Transitioning from Dagger 1 to Dagger 2 and annoyances in Dagger 2
+* [Dependency Injection for beginners - Subhash Acharya](https://medium.com/@subhash2046/dependency-injection-for-beginners-21f98b91ea7a)
+* [Let’s learn Dagger2 while refactoring a poorly coded Android app](https://medium.com/@AllanHasegawa/lets-learn-dagger2-by-refactoring-a-poorly-coded-android-app-a5015a8ae108)
 
 
 ## Organised by Blogger
@@ -57,7 +60,7 @@
 * **[Dependency Injection in Android](https://www.techyourchance.com/dependency-injection-android)**
 * [Dagger 2 Tutorial](https://www.techyourchance.com/dagger-tutorial/)
 * [Dagger 2 scopes demystified](https://www.techyourchance.com/dagger-2-scopes-demystified/)
-* [[Youtube] Android Dagger for Professionals Tutorial](https://www.youtube.com/watch?v=cx6pCIbOqtI)
+* [Advanced Dagger 2 Tutorial (Video)](https://www.techyourchance.com/advanced-dagger-tutorial/)
 * [[Youtube] Dependency Injection in Android - Best Practices by Vasiliy Zukanov](https://www.youtube.com/watch?v=6xB5MWK4tuQ)
 * [[Github] android\_application\_template](https://github.com/techyourchance/android_application_template)
 * [[Github] idocare-android](https://github.com/techyourchance/idocare-android)
@@ -119,6 +122,12 @@
 * [Part 7: Simple Ways To Stab With Dagger 2 ( Life of a scoped object)](https://medium.com/@laaptu9/part-7-simple-ways-to-stab-with-dagger-2-life-of-a-scoped-object-c423a0bc83ee)
 * [Part 8: Simple Ways To Stab With Dagger 2 ( Custom Scope)](https://medium.com/@laaptu9/part-8-simple-ways-to-stab-with-dagger-2-custom-scope-91fd2b4de3c0)
 
+#### Hafiz Waleed Hussain
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 1](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 2](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-2/)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 3](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-3/)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 4](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-4/)
+
 ## Dagger Tips and Tricks
 
 * [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
@@ -160,6 +169,8 @@
 * [Android testing using Dagger 2, Mockito and a custom JUnit rule](https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56)
 * [Using Dagger For Testable Code](https://blog.blueapron.io/using-dagger-for-testable-code-5d29f6c5fc86)
 * [How Dagger 2 Helps In Android Espresso Tests](http://www.ottodroid.net/?p=514)
+* [Activity Espresso Test With Dagger’s Android Injector](https://proandroiddev.com/activity-espresso-test-with-daggers-android-injector-82f3ee564aa4)
+* [DaggerMock - A JUnit rule to easily override Dagger 2 objects](https://github.com/fabioCollini/DaggerMock)
 
 
 #### With Kotlin 
