@@ -128,6 +128,12 @@
 * [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 3](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-3/)
 * [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 4](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-4/)
 
+#### Srinivas
+* [Dependency Injection Android Using Dagger2](http://www.zoftino.com/dependency-injection-android-using-dagger2)
+* [Dagger Subcomponents](http://www.zoftino.com/dagger-subcomponents)
+* [Dagger Multibinding](http://www.zoftino.com/dagger-multibinding)
+* [Android Framework Classes Dependency Injection Using Dagger Android](http://www.zoftino.com/android-framework-classes-dependency-injection-using-dagger-android)
+
 ## Dagger Tips and Tricks
 
 * [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
