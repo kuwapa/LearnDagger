@@ -138,11 +138,19 @@
 
 ## Dagger Android modules
 
-* [New Android Injector with Dagger 2 — part 1](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe)
-* [New Android Injector with Dagger 2 — part 2](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-2-4af05fd783d0)
 * [[Youtube] Valentin Hinov - Understanding Dagger 2 on Android](https://www.youtube.com/watch?v=hjHZkZr3GZw)
 * [Dagger 2: Android Modules](https://proandroiddev.com/dagger-2-android-modules-e168821cfc57)
 * [MVP with Dagger 2.11](https://proandroiddev.com/mvp-with-dagger-2-11-847d52c27c5a)
+
+#### Mert Şimşek
+* [New Android Injector with Dagger 2 — part 1](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe)
+* [New Android Injector with Dagger 2 — part 2](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-2-4af05fd783d0)
+
+
+#### James Shvarts
+* [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
+* [Implementing MVP with the new Dagger Android Injection API](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
+* [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
 
 
 
