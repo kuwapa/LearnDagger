@@ -198,7 +198,7 @@
 
 ## Videos
 
-
+* [Android Dialogs, Pierre-Yves Ricau - Dagger](https://www.youtube.com/playlist?list=PLFftu4DSZBSxHiu388eatvMPlIPA2IVCu)
 * [Dagger 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [The Future of Dependency Injection with Dagger 2 - Jake Wharton](https://www.youtube.com/watch?v=plK0zyRLIP8)
 * [Dependency Injection with Dagger 2 - Brandon Gogetap](https://www.youtube.com/watch?v=jfZJIE4i66Q)
