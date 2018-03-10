@@ -34,6 +34,7 @@
 * [Dependency Injection for beginners - Subhash Acharya](https://medium.com/@subhash2046/dependency-injection-for-beginners-21f98b91ea7a)
 * [Let’s learn Dagger2 while refactoring a poorly coded Android app](https://medium.com/@AllanHasegawa/lets-learn-dagger2-by-refactoring-a-poorly-coded-android-app-a5015a8ae108)
 * [Clean Architecture — Kotlin, Dagger 2, RxJava, MVVM and Unit Testing](https://medium.com/@rahul.singh/clean-architecture-kotlin-dagger-2-rxjava-mvvm-and-unit-testing-dc05dcdf3ce6)
+* [[Slides] Dependency injection with dagger 2](https://www.slideshare.net/Nischal0101/dependency-injection-with-dagger-2-87654649)
 
 
 ## Organised by Blogger
@@ -129,11 +130,16 @@
 * [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 3](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-3/)
 * [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 4](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-4/)
 
-#### Srinivas
+#### Zoftino
 * [Dependency Injection Android Using Dagger2](http://www.zoftino.com/dependency-injection-android-using-dagger2)
 * [Dagger Subcomponents](http://www.zoftino.com/dagger-subcomponents)
 * [Dagger Multibinding](http://www.zoftino.com/dagger-multibinding)
 * [Android Framework Classes Dependency Injection Using Dagger Android](http://www.zoftino.com/android-framework-classes-dependency-injection-using-dagger-android)
+
+#### David Medenjak
+* [Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
+* [Dagger 2 – Rules of Engagement](https://blog.davidmedenjak.com/android/2017/11/11/dagger-rules-engagement.html)
+* [Providing Interface Implementations with Dagger](https://blog.davidmedenjak.com/android/2017/04/28/dagger-providing-different-implementations.html)
 
 ## Dagger Tips and Tricks
 
@@ -185,6 +191,8 @@
 * [Using Dagger For Testable Code](https://blog.blueapron.io/using-dagger-for-testable-code-5d29f6c5fc86)
 * [How Dagger 2 Helps In Android Espresso Tests](http://www.ottodroid.net/?p=514)
 * [Activity Espresso Test With Dagger’s Android Injector](https://proandroiddev.com/activity-espresso-test-with-daggers-android-injector-82f3ee564aa4)
+* [Fragment Espresso Testing With Dagger’s Android Injector
+](https://proandroiddev.com/fragment-espresso-testing-with-daggers-android-injector-2bd70b6a842d)
 * [DaggerMock - A JUnit rule to easily override Dagger 2 objects](https://github.com/fabioCollini/DaggerMock)
 
 
@@ -230,6 +238,7 @@
 ## Github repos
 
 * https://github.com/Karumi/KataSuperHeroesAndroid
+* https://github.com/googlesamples/android-architecture/tree/todo-mvp-dagger/
 * https://github.com/iammert/dagger-android-injection
 * https://github.com/Ekito/koin
 * https://github.com/hitherejoe/MvpBoilerplate
@@ -237,7 +246,6 @@
 * https://github.com/androidstarters/generator-android-mvp-starter
 * https://github.com/gk5885/dagger-android-sample
 * https://github.com/android10/Android-CleanArchitecture
-
 
 ## Tools
 
@@ -259,4 +267,4 @@
 * [Scopes in Dagger 2](https://stackoverflow.com/questions/29528599/scopes-in-dagger-2)
 * [Problems with singletons when using component dependencies](https://stackoverflow.com/questions/28170292/problems-with-singletons-when-using-component-dependencies)
 * [How do different retention policies affect my annotations?](https://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations)
-* [What's the difference between interface and @interface in java?](https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java)
+* [What's the difference between interface and @interface in java?](https://stackoverflow.com/questions/918393/whats-the-difference-between-interface-and-interface-in-java)	
