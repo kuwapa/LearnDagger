@@ -35,6 +35,7 @@
 * [Let’s learn Dagger2 while refactoring a poorly coded Android app](https://medium.com/@AllanHasegawa/lets-learn-dagger2-by-refactoring-a-poorly-coded-android-app-a5015a8ae108)
 * [Clean Architecture — Kotlin, Dagger 2, RxJava, MVVM and Unit Testing](https://medium.com/@rahul.singh/clean-architecture-kotlin-dagger-2-rxjava-mvvm-and-unit-testing-dc05dcdf3ce6)
 * [[Slides] Dependency injection with dagger 2](https://www.slideshare.net/Nischal0101/dependency-injection-with-dagger-2-87654649)
+* [Explore How Dagger 2 Enables the Reusability of the Components?](https://www.codementor.io/valkeshpatel/explore-how-dagger-2-enables-the-reusability-of-the-components-hz2x4gqis)
 
 
 ## Organised by Blogger
@@ -125,10 +126,12 @@
 * [Part 8: Simple Ways To Stab With Dagger 2 ( Custom Scope)](https://medium.com/@laaptu9/part-8-simple-ways-to-stab-with-dagger-2-custom-scope-91fd2b4de3c0)
 
 #### Hafiz Waleed Hussain
-* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 1](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/)
-* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 2](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-2/)
-* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 3](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-3/)
-* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 4](http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-4/)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 1](https://medium.com/u-want-to-learn/dagger-2-caution-please-try-at-home-part-1-3c562502787)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 2](https://medium.com/@hafizwaleedhussain/dagger-2-caution-please-try-at-home-part-2-9de02c2185d2)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 3](https://medium.com/u-want-to-learn/dagger-2-caution-please-try-at-home-part-3-2502d2c18e54)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 4](https://medium.com/u-want-to-learn/dagger-2-caution-please-try-at-home-part-4-8956d286f48)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 5](https://medium.com/u-want-to-learn/dagger-2-caution-please-try-at-home-part-5-51e55f4ffe38)
+* [Dagger 2 ( Caution: PLEASE TRY AT HOME ) Part 6](https://medium.com/u-want-to-learn/dagger-2-caution-please-try-at-home-part-6-6fb20d233910)
 
 #### Zoftino
 * [Dependency Injection Android Using Dagger2](http://www.zoftino.com/dependency-injection-android-using-dagger2)
@@ -140,6 +143,10 @@
 * [Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html)
 * [Dagger 2 – Rules of Engagement](https://blog.davidmedenjak.com/android/2017/11/11/dagger-rules-engagement.html)
 * [Providing Interface Implementations with Dagger](https://blog.davidmedenjak.com/android/2017/04/28/dagger-providing-different-implementations.html)
+
+#### Genc Tasbasi
+* [Dependency Injection with Dagger 2 – Part 1: Why to bother?](http://genct.com/index.php/2018/01/09/dependency-injection-with-dagger-2-part-1-why-to-bother/)
+* [Dependency Injection with Dagger 2 – Part 2: Make it work](http://genct.com/index.php/2018/01/19/dependency-injection-with-dagger-2-part-2-make-it-work/)
 
 ## Dagger Tips and Tricks
 
@@ -164,6 +171,11 @@
 * [Implementing MVP with the new Dagger Android Injection API](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
 * [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
 
+#### Ahsen Saeed
+* [Dagger with Retrofit Example Part 1](http://codinginfinite.com/dagger-retrofit/)
+* [Dagger with Retrofit Example Part 2](http://codinginfinite.com/dagger-retrofit-part2/)
+* [Dagger With Retrofit And RxJava Example Part 3](http://codinginfinite.com/dagger-with-retrofit-and-rxjava-example-part-3/)
+
 
 
 ## Advanced Dagger Blogs
@@ -179,6 +191,7 @@
 * [Retaining Dagger components across configuration change using Service-Tree](https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2)
 * [Marinator: Delicious Dependency Injection](https://blog.blueapron.io/marinator-delicious-dependency-injection-8a15d2a4adfe)
 * [Dagger 2 Generated Code](https://medium.com/mindorks/dagger-2-generated-code-9def1bebc44b)
+* [RxPreferences and Dagger](https://www.javacodegeeks.com/2018/03/rxpreferences-and-dagger.html)
 
 
 #### Testing
@@ -202,6 +215,8 @@
 * [Better dependency injection for Android](https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad)
 * [Dagger 2 in only 4 code lines](https://proandroiddev.com/dagger-2-in-only-4-code-lines-9fdcb7c05e1f)
 * [Dagger 2 for Dummies in Kotlin (with 20 lines of code)](https://medium.com/@elye.project/dagger-2-for-dummies-in-kotlin-with-one-page-simple-code-project-618a5f9f2fe8)
+* [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
+* [Unit tests with JUnit on a Kotlin project with Dagger 2, Retrofit and RxAndroid](https://android.jlelse.eu/unit-tests-with-junit-on-a-kotlin-project-with-dagger-2-retrofit-and-rxandroid-a879f8990230)
 
 
 ## Videos
@@ -220,6 +235,7 @@
 * [Understanding Dagger 2's Generated Code by Ron Shapiro & David P. Baker](https://www.youtube.com/watch?v=wCvXe2LsN5o)
 * [Swordfighting with Dagger by Mike Nakhimovich](https://academy.realm.io/posts/360andev-mike-nakhimovich-swordfighting-dagger-dependency-injection-android/)
 * [Dagger Slidenerd Tutorials](https://www.youtube.com/user/slidenerd/search?query=dagger)
+* [Dagger on Android in 2018 - Ben Kay, software engineer at Citymapper](https://www.youtube.com/watch?v=p2QR00Vu150)
 
 ## Podcasts
 
@@ -233,7 +249,8 @@
 ## Paid Courses
 * [[Udemy] - Dependency Injection in Android with Dagger 2 by Vasiliy Zukanov](https://www.udemy.com/dependency-injection-in-android-with-dagger/)
 * [[Udemy] - Advanced Android - Architecture with Dagger 2 and more](https://www.udemy.com/advanced-android/?siteID=AAj.6g7i2Vs-nOjOIQonqHKv8bMtAM.JdQ&LSNPUBID=AAj*6g7i2Vs)
-* [[Udemy]- Architect Android apps with MVP, Dagger, Retrofit & RxJava](https://www.udemy.com/architect-android-apps-with-mvp-pattern-rxjava-dagger-retrofit-junit/)
+* [[Udemy] - Architect Android apps with MVP, Dagger, Retrofit & RxJava](https://www.udemy.com/architect-android-apps-with-mvp-pattern-rxjava-dagger-retrofit-junit/)
+* [[Udemy] - Android Dependency Injection & MVP with Dagger 2 Jump Start](https://www.udemy.com/android-dependency-injection-with-dagger-2-and-butter-knife/)
 
 ## Github repos
 
