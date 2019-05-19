@@ -3,44 +3,46 @@
 
 ## Why you need dependency injection
 
-https://academy.realm.io/posts/donn-felker-solid-part-5/
+
+[D is for the Dependency Inversion Principle](https://academy.realm.io/posts/donn-felker-solid-part-5/)
+<br/>All SOLID Principles are essential in understanding in how to write better and maintanable code. This series of articles by Donn Felker has the best explanations of all SOLID principles. 
 
 
-##### More About DIP
-* https://www.oodesign.com/dependency-inversion-principle.html
-* https://www.martinfowler.com/articles/injection.html
+##### More About Dependency Inversion Principle
+* [Dependency Inversion Principle](https://www.oodesign.com/dependency-inversion-principle.html)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html)
 
-##### More About Bob clean arch
-* [Robert C. Martin - Clean Architecture](https://vimeo.com/43612849)
+<br/>
+[Robert C. Martin - Clean Architecture](https://vimeo.com/43612849)
+<br/>This talk by Bob Martin is essential to every software dev learning to write good testable code. 
 
-##### More about SOLID
-https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea
+[SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
-## Dependency Injection Basics and Dagger
+## Dependency Injection and Dagger Basics 
 
-##### What is dependency injection
-https://www.youtube.com/watch?v=IKD2-MAkXyQ
+[What is dependency injection](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
+
+[Dagger 2 Beginner Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65) [Youtube Playlist]
+<br/>One of the best tutorials explaining dependency injection and all the annotations involved with live examples from an android app from scratch.
+
+[Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb) [Article Series]
+<br/>A great intro and series on DI made exciting with explanations using Game of Thrones. 
+
+[Dagger 2 Basics](https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html#providing-objects)
+<br/>A very well written article which explains all the parts used in Dagger along with many best practices as well. Must read after basics of Dependency Injection are clear. 
 
 
-One of the best tutorials explaining dependency injection and all the annotations involved with live examples from an android app from scratch.
-https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65
+##### Articles by Mirek Stanek
 
-A good intro and series on DI made exciting with explanations using Game of Thrones 
-https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb
-Include other articles in the series 
-
-https://blog.davidmedenjak.com/android/2016/05/04/dagger-2-introduction.html#providing-objects
-A very well written article which explains all the parts used in Dagger along with many best practices as well. Must read after basics of Dependency Injection are clear. 
-
-* http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/
-* http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/
-* http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/
+* [Dependency injection with Dagger 2 - Introduction to DI](http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/)
+* [Dependency injection with Dagger 2 - the API](http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/)
+* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 
 Excellent explanations from the author. Clearly explained with code examples along with an example of how Dagger can be used in the android context. 
 
 
-https://www.zoftino.com/dependency-injection-android-using-dagger2
-Beautifully and simply explained. [SERIES]
+[Dependency Injection Android Using Dagger2](https://www.zoftino.com/dependency-injection-android-using-dagger2) [Article Series]
+<br/>Beautifully and simply explained.
 
 
 ## From various Bloggers
