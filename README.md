@@ -150,7 +150,6 @@
 * [Dagger Slidenerd Tutorials](https://www.youtube.com/user/slidenerd/search?query=dagger)
 * [Dagger on Android in 2018 - Ben Kay, software engineer at Citymapper](https://www.youtube.com/watch?v=p2QR00Vu150)
 * [Dagger 2.2 - CodingWithMitch](https://www.youtube.com/playlist?list=PLgCYzUzKIBE8AOAspC3DHoBNZIBHbIOsC)
-* [Dagger 2 Beginner Tutorial - Coding in Flow](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 
 ## Podcasts
 
