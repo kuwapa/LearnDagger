@@ -165,7 +165,6 @@
 * [[Udemy] - Dependency Injection in Android with Dagger 2 by Vasiliy Zukanov](https://www.udemy.com/dependency-injection-in-android-with-dagger/)
 * [[Udemy] - Advanced Android - Architecture with Dagger 2 and more](https://www.udemy.com/advanced-android/?siteID=AAj.6g7i2Vs-nOjOIQonqHKv8bMtAM.JdQ&LSNPUBID=AAj*6g7i2Vs)
 * [[Udemy] - Architect Android apps with MVP, Dagger, Retrofit & RxJava](https://www.udemy.com/architect-android-apps-with-mvp-pattern-rxjava-dagger-retrofit-junit/)
-* [[Udemy] - Android Dependency Injection & MVP with Dagger 2 Jump Start](https://www.udemy.com/android-dependency-injection-with-dagger-2-and-butter-knife/)
 
 ## Github repos
 
