@@ -33,7 +33,7 @@
 
 
 *  Articles by Mirek Stanek
-
+    
     * [Dependency injection with Dagger 2 - Introduction to DI](http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/)
     * [Dependency injection with Dagger 2 - the API](http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/)
     * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
@@ -44,28 +44,16 @@
 * [Dependency Injection Android Using Dagger2](https://www.zoftino.com/dependency-injection-android-using-dagger2) [Article Series]
 <br/>Beautifully and simply explained.
 
-
-## From various Bloggers
-* **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)** - Why you need Dagger and where it fits in
-
-## Organised by Blogger
-
-#### Vasiliy Zukanov
-
-* [Advanced Dagger 2 Tutorial (Video)](https://www.techyourchance.com/advanced-dagger-tutorial/)
-* [[Youtube] Dependency Injection in Android - Best Practices by Vasiliy Zukanov](https://www.youtube.com/watch?v=6xB5MWK4tuQ)
+* **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)** <br>Why you need Dagger and where it fits in and what are its benefits
 
 
-#### David Medenjak
+## Dagger best practices
+
+* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) <br> A great read on some of the best practices for Dagger explained very well. 
 * [Dagger 2 – Rules of Engagement](https://blog.davidmedenjak.com/android/2017/11/11/dagger-rules-engagement.html)
-* [Providing Interface Implementations with Dagger](https://blog.davidmedenjak.com/android/2017/04/28/dagger-providing-different-implementations.html)
-
-
-## Dagger Tips and Tricks
-
-* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
 * [Inject interfaces without provide methods on Dagger 2](https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29)
 * **[That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)**
+
 
 
 ## Dagger Android modules
@@ -105,6 +93,7 @@
 * [Marinator: Delicious Dependency Injection](https://blog.blueapron.io/marinator-delicious-dependency-injection-8a15d2a4adfe)
 * [Dagger 2 Generated Code](https://medium.com/mindorks/dagger-2-generated-code-9def1bebc44b)
 * [RxPreferences and Dagger](https://www.javacodegeeks.com/2018/03/rxpreferences-and-dagger.html)
+* [Providing Interface Implementations with Dagger](https://blog.davidmedenjak.com/android/2017/04/28/dagger-providing-different-implementations.html)
 
 
 #### Testing
@@ -150,17 +139,18 @@
 * [Dagger Slidenerd Tutorials](https://www.youtube.com/user/slidenerd/search?query=dagger)
 * [Dagger on Android in 2018 - Ben Kay, software engineer at Citymapper](https://www.youtube.com/watch?v=p2QR00Vu150)
 * [Dagger 2.2 - CodingWithMitch](https://www.youtube.com/playlist?list=PLgCYzUzKIBE8AOAspC3DHoBNZIBHbIOsC)
+* [Advanced Dagger 2 Tutorial (Video)](https://www.techyourchance.com/advanced-dagger-tutorial/)
+* [[Youtube] Dependency Injection in Android - Best Practices by Vasiliy Zukanov](https://www.youtube.com/watch?v=6xB5MWK4tuQ)
 
 ## Podcasts
 
 * [Android Developers Backstage - Episode 63: Dagger](http://androidbackstage.blogspot.in/2017/02/episode-63-dagger.html)
 * [Fragmented - 021: Diving Deep with Dagger](http://fragmentedpodcast.com/episodes/021/)
 
-## Lessons from Caster.io
-
-* [Dependency Injection with Dagger 2](https://caster.io/courses/dagger2)
 
 ## Paid Courses
+
+* [[Castor IO] - Dependency Injection with Dagger 2](https://caster.io/courses/dagger2)
 * [[Udemy] - Dependency Injection in Android with Dagger 2 by Vasiliy Zukanov](https://www.udemy.com/dependency-injection-in-android-with-dagger/)
 * [[Udemy] - Advanced Android - Architecture with Dagger 2 and more](https://www.udemy.com/advanced-android/?siteID=AAj.6g7i2Vs-nOjOIQonqHKv8bMtAM.JdQ&LSNPUBID=AAj*6g7i2Vs)
 * [[Udemy] - Architect Android apps with MVP, Dagger, Retrofit & RxJava](https://www.udemy.com/architect-android-apps-with-mvp-pattern-rxjava-dagger-retrofit-junit/)
