@@ -44,15 +44,16 @@
 * [Dependency Injection Android Using Dagger2](https://www.zoftino.com/dependency-injection-android-using-dagger2) [Article Series]
 <br/>Beautifully and simply explained.
 
-* **[Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2)** <br>Why you need Dagger and where it fits in and what are its benefits
+* [Take a Stab at Test-Friendly Architecture with Dagger 2](https://academy.realm.io/posts/360-andev-2017-brian-gardner-test-friendly-architecture-dagger-2) <br>Why you need Dagger and where it fits in and what are its benefits
 
 
 ## Dagger best practices
 
-* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) <br> A great read on some of the best practices for Dagger explained very well. 
+* [Keeping the Daggers Sharp ⚔️](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) <br> A great read on some of the best practices for Dagger
+* [That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
+* [It's complicated, but it doesn't have to be: a Dagger journey by Fred Porciúncula, Blinkist EN](https://www.youtube.com/watch?v=9fn5s8_CYJI) <br> An excellent talk explaining latest Dagger best practices.  
 * [Dagger 2 – Rules of Engagement](https://blog.davidmedenjak.com/android/2017/11/11/dagger-rules-engagement.html)
 * [Inject interfaces without provide methods on Dagger 2](https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29)
-* **[That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)**
 
 
 
@@ -62,20 +63,20 @@
 * [Dagger 2: Android Modules](https://proandroiddev.com/dagger-2-android-modules-e168821cfc57)
 * [MVP with Dagger 2.11](https://proandroiddev.com/mvp-with-dagger-2-11-847d52c27c5a)
 
-#### Mert Şimşek
-* [New Android Injector with Dagger 2 — part 1](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe)
-* [New Android Injector with Dagger 2 — part 2](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-2-4af05fd783d0)
+* Mert Şimşek
+    * [New Android Injector with Dagger 2 — part 1](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe)
+    * [New Android Injector with Dagger 2 — part 2](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-2-4af05fd783d0)
 
 
-#### James Shvarts
-* [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
-* [Implementing MVP with the new Dagger Android Injection API](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
-* [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
+* James Shvarts
+    * [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
+    * [Implementing MVP with the new Dagger Android Injection API](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
+    * [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
 
-#### Ahsen Saeed
-* [Dagger with Retrofit Example Part 1](http://codinginfinite.com/dagger-retrofit/)
-* [Dagger with Retrofit Example Part 2](http://codinginfinite.com/dagger-retrofit-part2/)
-* [Dagger With Retrofit And RxJava Example Part 3](http://codinginfinite.com/dagger-with-retrofit-and-rxjava-example-part-3/)
+* Ahsen Saeed
+    * [Dagger with Retrofit Example Part 1](http://codinginfinite.com/dagger-retrofit/)
+    * [Dagger with Retrofit Example Part 2](http://codinginfinite.com/dagger-retrofit-part2/)
+    * [Dagger With Retrofit And RxJava Example Part 3](http://codinginfinite.com/dagger-with-retrofit-and-rxjava-example-part-3/)
 
 
 
